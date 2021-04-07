@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.qinchunabng.citicplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.qinchunabng.citicplugin.MyBundle
 
 class MyApplicationService {
 
